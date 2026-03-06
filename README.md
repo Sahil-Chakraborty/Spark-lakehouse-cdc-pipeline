@@ -73,6 +73,9 @@ The Gold layer delivers analytics-ready datasets for reporting and decision-maki
 
 ## 📊 Dashboard Visualizations
 
+🔗 **Live Dashboard:**  
+[View on Tableau Public](https://public.tableau.com/views/Book1_17725506625020/EXECUTIVEDASHBOARD?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Three dashboards were built using the curated Gold layer:
 
 ### Executive Overview
